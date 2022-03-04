@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @propratik1999
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning front end web development.
 - 💞️ I’m looking to collaborate on making a project on website making.
 - 📫 How to reach me mail me at pratikprapatil1999@gmail.com
 

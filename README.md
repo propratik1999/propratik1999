@@ -8,3 +8,8 @@
 propratik1999/propratik1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#include<stdio.h>
+int main(){
+cout<<"Hello World!"
+return 0;
+}
